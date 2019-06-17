@@ -25,6 +25,7 @@ after_script:
 branches:
   only:
     - blog-source
+<<<<<<< HEAD
 
 cache:
   directories:
@@ -33,3 +34,12 @@ cache:
 env:
  global:
    - GH_REF:github.com/sophiazmm/sophiazmm.github.io.git
+=======
+env:
+ global:
+   - GH_REF:github.com/sophiazmm/sophiazmm.github.io.git
+   
+cache:
+  directories:
+    - node_modules
+>>>>>>> 0c040fdc796354dde5f6ca9abf7e8d22599f0963

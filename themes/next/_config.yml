@@ -228,9 +228,9 @@ avatar:
   # In theme directory (source/images): /images/avatar.gif
   # In site directory (source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
-  url: /images/avatar.gif
+  url: /images/author.png
   # If true, the avatar would be dispalyed in circle.
-  rounded: false
+  rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
   opacity: 1
   # If true, the avatar would be rotated with the cursor.
@@ -333,11 +333,11 @@ post_meta:
 symbols_count_time:
   separated_meta: true
   item_text_post: true
-  item_text_total: false
+  item_text_total: true
   awl: 4
-  wpm: 275
+  wpm: 200
   suffix: mins.
-  
+
 codeblock:
   # Manual define the border radius in codeblock, leave it blank for the default value: 1
   border_radius:

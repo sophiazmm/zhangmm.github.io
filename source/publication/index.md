@@ -11,6 +11,7 @@ date: 2019-06-18 10:05:23
 
 **Zhang, M.**, Han, W., Tang, H., Li, G., Zhang, M., Xu, R., Liu, Y., Yang, T., Li, W., Zou, J., et al. (2018). Genomic diversity dynamics in conserved chicken populations are revealed by genome-wide SNPs. BMC Genomics 19, 598.
 **Zhang M M**, Wang S W, Liu Y J, Zhang Y M, Wu K L. Candidate Mutations of BMPR1B for Pig Prolificacy. Journal of Pure and Applied Zoology. 2018, 6(3): 8-10.
+**Zhang,M.**, Shen, F., Yang, T., Zhang, H., Lu, Y., and Wu K. Genetic input from wild giant pandas (Ailuropoda melanoleuca) into the captive population simulated by OMPG rule. JOJ Wildlife Biodiversity. 2018: 1(1): 555553.
 
 ## **2017**
 

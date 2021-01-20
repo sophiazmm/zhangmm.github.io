@@ -18,5 +18,8 @@
     "hexo-server": "^0.3.3",
     "hexo-symbols-count-time": "^0.6.0",
     "live2d-widget-model-hijiki": "^1.0.5"
+  },
+  "resolutions": {
+    "stylus": "^0.54.8"
   }
 }

@@ -1,8 +1,11 @@
 ---
 title: R language -- help and basic
-date: 2021-01-22 22:00:00
 categories: DataScience
-tags: [R, basic，help]
+tags:
+  - R
+  - basic，help
+abbrlink: b8bd4b55
+date: 2021-01-22 22:00:00
 ---
 
 help (topic) /?topic    关于topic的文档

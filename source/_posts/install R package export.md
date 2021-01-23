@@ -1,8 +1,11 @@
 ---
 title: install R package export
-date: 2021-01-21 22:00:00
 categories: DataScience
-tags: [R, export]
+tags:
+  - R
+  - export
+abbrlink: 4eb2368d
+date: 2021-01-21 22:00:00
 ---
 
 需要先安装依赖，然后github下载源码，修改源码后打包，并使用devtools安装

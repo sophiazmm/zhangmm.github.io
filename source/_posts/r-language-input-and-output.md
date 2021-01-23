@@ -1,5 +1,5 @@
 ---
-title: r language-input and output
+title: R language--input and output
 date: 2021-01-23 22:31:03
 categories: DataScience
 tags: R,input,output

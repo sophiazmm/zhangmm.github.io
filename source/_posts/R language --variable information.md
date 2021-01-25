@@ -27,7 +27,7 @@ nrow(x)和NROW(x).    返回行的个数dim(x)[1]
 
 ncol(x)和NCOL(x).    返回列的个数dim(x)[2]
 
-class(x) .    得到或设置x的类； class(x) <- "myclass"
+class(x).    得到或设置x的类； class(x) <- "myclass"
 
 unclass(x).    删除x的类
 

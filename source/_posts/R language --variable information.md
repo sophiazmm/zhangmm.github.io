@@ -1,6 +1,6 @@
 ---
 layout: R language -- variable information
-title: variable-information
+title: R language -- variable information
 date: 2021-01-25 14:01:37
 tags: R；variable
 ---

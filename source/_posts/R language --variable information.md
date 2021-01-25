@@ -11,6 +11,8 @@ as.array(x), as.data.frame(x), as.numeric(x), as.logical(x), as.complex(x), as.c
 
 转换变量类型；使用如下命令得到全部列表：methods(as)
 
+
+
 #变量信息#
 
 is.na(x), is.null(x), is.array(x), is.data.frame(x),is.numeric(x), is.complex(x), is.character(x), ...

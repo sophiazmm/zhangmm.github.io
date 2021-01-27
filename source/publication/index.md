@@ -3,6 +3,10 @@ title: Publications
 date: 2019-06-18 10:05:23
 ---
 
+## **2020**
+
+Li W, **Zhang M**, Wang K, Lu Y, Tang H, Wu K. A double-labeling marker-based method for estimating inbreeding and parental genomic components in a population under conservation. *Asian-Australas J Anim Sci*. 2020;33(1):12-23. doi:10.5713/ajas.19.0035.
+
 ## **2019**
 
 **Mengmeng Zhang**, Keliang Wu. Integrating In Situ And Ex Situ Genomic Data Of Domestic Chicken Breeds For Conservation In China. 37th ISAG,2019.

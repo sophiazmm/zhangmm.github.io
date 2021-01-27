@@ -6,7 +6,7 @@ tags:
   - shell
 date: 2021-01-27 23:00:00
 ---
-#linux下shell中使用上下键翻出历史命名时出现^[[A^[[A^[[A^[[B^[[B
+# linux下shell中使用上下键翻出历史命名时出现^[[A^[[A^[[A^[[B^[[B
 
 step1：echo $SHELL
 

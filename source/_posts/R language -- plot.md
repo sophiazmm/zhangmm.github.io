@@ -1,5 +1,5 @@
 ---
-title: R language--input and output
+title: R language--plot
 date: 2021-02-01 21:31:03
 categories: DataScience
 tags: R,plot

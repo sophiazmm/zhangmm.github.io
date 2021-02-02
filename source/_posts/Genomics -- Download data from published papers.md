@@ -2,7 +2,10 @@
 title: Download data from NCBI
 date: 2021-02-02 22:00:50
 categories: DataScience
-tags:NCBI, Genomic data, Download
+tags:
+	- NCBI,
+	- Genomic data
+	- Download
 ---
 
 1. Accession number in GEO

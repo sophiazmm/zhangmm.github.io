@@ -1,8 +1,8 @@
 ---
 title: Linux系统下docker修改默认存储目录
 date: 2021-02-02 21:00:00
-categories:DataScience
-tags:docker
+categories: DataScience
+tags: docker
 
 ---
 

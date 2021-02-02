@@ -1,8 +1,8 @@
 ---
 title: Linux系统下,四步解决sudo执行权限问题解决
 date: 2021-01-28 18:53:58
-categories:DataScience
-tags:Linux,sudo
+categories: DataScience
+tags: Linux,sudo
 ---
 
 ** 1. 切换到root用户： 

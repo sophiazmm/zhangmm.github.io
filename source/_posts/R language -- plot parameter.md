@@ -1,5 +1,5 @@
 ---
-title: R language--plot 2
+title: R language--plot
 date: 2021-02-03 21:31:03
 categories: DataScience
 tags: R,plot

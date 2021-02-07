@@ -1,4 +1,8 @@
 
+title: Github html demo
+date: 2021-02-07 22:31:03
+categories: DataScience
+tags: Github
 
 1. 在GitHub存储库中有一个.html文件，如何直接查看该页面 ？
 

@@ -2,7 +2,7 @@
 title: R language--input and output
 date: 2021-01-23 22:31:03
 categories: DataScience
-tags: R,input,output
+tags: R; input; output
 ---
 
 load()    加载由save命令得到的资料集

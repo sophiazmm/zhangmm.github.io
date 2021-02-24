@@ -1,5 +1,5 @@
 ---
-title: Lattice plot
+title: R language -- Lattice plot
 date: 2021-02-23 22:31:03
 categories: DataScience
 tags: 

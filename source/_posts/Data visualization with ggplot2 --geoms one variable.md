@@ -1,5 +1,5 @@
 ---
-title: Data visualization with ggplot2 -- Basics
+title: Data visualization with ggplot2 -- Geoms
 categories: DataScience
 tags:
   - R 

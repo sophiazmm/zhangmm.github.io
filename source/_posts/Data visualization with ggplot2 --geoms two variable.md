@@ -9,7 +9,7 @@ tags:
   - Two variable
 date: 2021-03-08  20:00:00
 ---
-Geoms - Use a geom to represent data points, use the geom's aesthetic properties to represent variables. Each function returns a layer.
+
 
 **Two Variables**
 

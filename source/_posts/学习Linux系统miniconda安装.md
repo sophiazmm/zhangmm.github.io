@@ -78,7 +78,7 @@ conda config --get channels
  conda install nextflow
 ```
 
-![img](file:///private/var/folders/j6/5qs1mtfn7dv826044c2v6zdh0000gn/T/WizNote/479db518-84e1-4599-9a7f-a4fd30ed7f4b/index_files/74479188.png)
+![](https://tva1.sinaimg.cn/large/008eGmZEly1gogd7pw1fpj31y40ggdsp.jpg)
 
 **7. 退出环境**
 

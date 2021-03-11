@@ -1,5 +1,5 @@
 ---
-title: Download data from NCBI
+title: Download data from NCBI(SRA数据下载)
 date: 2021-02-02 22:00:50
 categories: DataScience
 tags:

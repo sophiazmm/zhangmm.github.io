@@ -1,12 +1,11 @@
 ---
-title: Data visualization with ggplot2 -- Geoms
+title: Data visualization with ggplot2 -- Geoms 1
 categories: DataScience
 tags:
   - R 
   - ggplot2
   - Visualization
   - Geoms
-  - one variable
 date: 2021-03-07  19:00:00
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Linux常用命令之显示命令：
+title: Linux常用命令之显示命令
 categories: DataScience
 tags:
   - Linux

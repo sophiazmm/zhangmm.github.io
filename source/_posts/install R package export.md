@@ -4,7 +4,6 @@ categories: DataScience
 tags:
   - R
   - export
-abbrlink: 4eb2368d
 date: 2021-01-21 22:00:00
 ---
 

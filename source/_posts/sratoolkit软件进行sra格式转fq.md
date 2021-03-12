@@ -2,7 +2,9 @@
 title: sratoolkit进行组学数据格式转换(from sra to fq)
 date: 2021-02-21 22:30:30
 categories: DataScience
-tags: Genomicdata
+tags: 
+  - Genomicdata
+  - sratoolkit
 ---
 
 # Step1: 下载安装  sratoolkit.2.10.9

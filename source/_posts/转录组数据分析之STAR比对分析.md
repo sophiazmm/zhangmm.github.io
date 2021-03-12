@@ -3,6 +3,9 @@ title: 转录组数据分析之STAR比对分析：
 categories: DataScience
 tags:
   - Linux
+  - RNA-seq
+  - STAR
+  - mapping
 date: 2021-03-01  23:00:00
 ---
 **1. STAR软件下载安装**

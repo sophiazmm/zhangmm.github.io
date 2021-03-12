@@ -1,8 +1,10 @@
 ---
-title: R language--plot 2
+title: R language -- plot 2
 date: 2021-02-03 21:31:03
 categories: DataScience
-tags: R,plot
+tags:
+  - R
+  - plot
 ---
 
 points(x, y)    添加点(选项type = 可以使用)
@@ -43,4 +45,6 @@ rug(x)    在x-轴上添加_rug_(1-d plot), 来代表数据
 
 locator(n, type="n", ...)    在用户使用鼠标在图上点击n次返回n次点击点坐标(x, y); 并可以在点击处绘制符号(type = "p")或线(type = "1"), 缺省情况下不画符号或连线(type = "n")
 
-#好记性不如烂笔头系列#
+
+
+*好记性不如烂笔头系列*

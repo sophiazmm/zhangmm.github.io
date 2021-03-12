@@ -1,8 +1,10 @@
 ---
-title: R language--plot
+title: R language -- plot 1
 date: 2021-02-01 21:31:03
 categories: DataScience
-tags: R,plot
+tags:
+  - R
+  - plot
 ---
 
 plot(x).   在x轴上顺次地绘制x值（y轴上）
@@ -73,4 +75,6 @@ main = 主标题
 
 sub =  副标题（小号字体）
 
-#好记性不如烂笔头系列#
+
+
+*好记性不如烂笔头系列*

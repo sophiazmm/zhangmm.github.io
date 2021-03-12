@@ -1,10 +1,11 @@
 ---
-title: Data wrangling with dplyr and tidyr(二)
+title: Data wrangling with dplyr and tidyr 2
 categories: DataScience
 tags:
   - R 
   - data
-  - wrangling
+  - dplyr
+  - tidyr
 date: 2021-03-04  23:00:00
 ---
 

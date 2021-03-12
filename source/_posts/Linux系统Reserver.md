@@ -1,8 +1,10 @@
 ---
-title: Rserver 修改用户package 文件夹
+title: Rserver修改用户package文件夹
 date: 2021-02-01 23:00:00
 categories: DataScience
-tags: R; linux
+tags:
+  - Rserver
+  - Linux
 ---
 
 # 迁移/备份文件

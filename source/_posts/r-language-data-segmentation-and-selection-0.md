@@ -1,8 +1,9 @@
 ---
-title: r language -- data segmentation and selection
+title: R language -- data segmentation and selection
 date: 2021-01-24 16:36:21
 categories: DataScience
-tags: R 
+tags: 
+   - R 
 ---
 
 #向量索引#
@@ -52,3 +53,7 @@ x["name", ].    名为“name”的行
 x[["name"]].   列名为“name”的列
 
 x$name.    列名为“name”的列
+
+
+
+*好记性不如烂笔头系列*

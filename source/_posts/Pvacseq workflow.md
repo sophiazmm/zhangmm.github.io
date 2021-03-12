@@ -1,8 +1,11 @@
 ---
-title: pvactools
+title: pvactools docker安装及应用
 date: 2021-01-29 21:00:00
 categories: DataScience
-tags: pvactools
+tags:
+  - pvactools
+  - pipeline
+  - docker
 ---
 
 # download pvaactools image

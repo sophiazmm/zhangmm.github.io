@@ -27,3 +27,4 @@ Build a graph with **qplot() **or **ggplot()**
 
 ​    Saves last plot as 5'✖️5‘file named “plot.png” in working directory. Matches file type to file extension.
 
+*好记性不如烂笔头系列*

@@ -1,5 +1,5 @@
 ---
-title: Data wrangling with dplyr and tidyr(三)
+title: Data wrangling with dplyr and tidyr 3
 categories: DataScience
 tags:
   - R 

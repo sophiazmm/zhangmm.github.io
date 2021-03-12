@@ -1,5 +1,5 @@
 ---
-title: Linux常用命令之任务管理：
+title: Linux常用命令之任务管理
 categories: DataScience
 tags:
   - Linux

@@ -4,7 +4,7 @@ categories: DataScience
 tags:
   - Linux
   - miniconda
-date: 2021-03-011  23:00:00
+date: 2021-03-11  23:00:00
 ---
 
 **1.miniconda官方：**

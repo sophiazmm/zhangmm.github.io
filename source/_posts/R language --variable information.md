@@ -1,8 +1,9 @@
 ---
-layout: R language -- variable information
 title: R language -- variable information
 date: 2021-01-25 14:01:37
-tags: R；variable
+tags:
+  - R
+  - variable
 ---
 
 #变量变换#
@@ -45,4 +46,4 @@ attributes(obj).    得到或设置obj的属性列表
 
 
 
-#好记性不如烂笔头系列#
+*好记性不如烂笔头系列*

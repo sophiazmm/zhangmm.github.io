@@ -1,8 +1,11 @@
 ---
-title: R language--plot
+title: R language -- parameter
 date: 2021-02-03 21:31:03
 categories: DataScience
-tags: R,plot
+tags:
+  - R
+  - plot
+  - parameter
 ---
 
 可以使用par(...)来永久性改变绘图参数；很多参数也可以作为绘图命令的选项

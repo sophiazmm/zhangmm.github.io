@@ -2,8 +2,9 @@
 title: Linux系统下samtools软件安装
 date: 2021-02-22 22:30:30
 categories: DataScience
-tags: Linux;
-      Software
+tags: 
+  - Linux
+  - samtools
 ---
 
 

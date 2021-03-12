@@ -1,5 +1,5 @@
 ---
-title: Linux常用命令之文件解/压缩：
+title: Linux常用命令之文件解/压缩
 categories: DataScience
 tags:
   - Linux

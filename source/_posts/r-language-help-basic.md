@@ -3,7 +3,8 @@ title: R language -- help and basic
 categories: DataScience
 tags:
   - R
-  - basic，help
+  - basic
+  - help
 abbrlink: b8bd4b55
 date: 2021-01-22 22:00:00
 ---
@@ -33,4 +34,4 @@ detach(x)    attach的逆过程
 assign(x, value)    将value赋值给x, 即是“< -”
 quit()    退出当前R会话(q()或ctrl.z)
 
-#好记性不如烂笔头系列#
+*好记性不如烂笔头系列*

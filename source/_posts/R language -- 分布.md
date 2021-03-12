@@ -1,8 +1,9 @@
 ---
-layout: R language -- distribution
 title: R language -- distribution
 date: 2021-01-28 23:30:50
-tags: R；norm
+tags:
+  - R
+  - norm
 ---
 
 rnorm(n, mean = 0, sd = 1)   高斯(正态)
@@ -45,4 +46,4 @@ wilcox(nn, m, n), rsignrank(nn, n)    wilcoxon分布
 
 
 
-#好记性不如烂笔头系列#
+*好记性不如烂笔头系列*

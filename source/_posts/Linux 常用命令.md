@@ -1,5 +1,5 @@
 ---
-title: Linux常用命令：
+title: Linux常用命令
 categories: DataScience
 tags:
   - Linux

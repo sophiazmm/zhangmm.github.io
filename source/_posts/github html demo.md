@@ -2,7 +2,9 @@
 title: Github html demo
 date: 2021-02-07 22:31:03
 categories: DataScience
-tags: Github
+tags: 
+  - Github
+  - html
 ---
 
 

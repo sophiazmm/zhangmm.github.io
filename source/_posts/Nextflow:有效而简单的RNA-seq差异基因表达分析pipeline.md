@@ -1,5 +1,5 @@
 ---
-title: 使用nextflow进行差异基因表达分析
+title: nextflow进行RNA-seq差异基因分析
 categories: DataScience
 tags:
   - Conda
@@ -9,12 +9,12 @@ tags:
 date: 2021-03-12  23:00:00
 ---
 
-​    该pipeline是在交互式工作管理器Nextflow v20.10.0中实现的，使其可移植，可伸缩，可并行化，并确保了高水平的可重复性。
+该pipeline是在交互式工作管理器Nextflow v20.10.0中实现的，使其可移植，可伸缩，可并行化，并确保了高水平的可重复性。
 
 
 ![](https://tva1.sinaimg.cn/large/008eGmZEly1gogwex8q1dj318k0u0wsg.jpg)
 
-​            图1 Nextflow工作流程图。圆圈表示输入数据，下载图标表示资源的自动下载，星号标记的步骤目前仅适用于某些物种
+图1 Nextflow工作流程图。圆圈表示输入数据，下载图标表示资源的自动下载，星号标记的步骤目前仅适用于某些物种
 
 **一. 安装**
 
@@ -34,16 +34,16 @@ conda activate nextflow
 
 ![](https://tva1.sinaimg.cn/large/008eGmZEly1gogx1jofptj31xw0pgdy9.jpg)
 
-3. 对于转录组组装，还需要安装```Docker``` 和 ```Singularity```
+3. 对于转录组组装，还需要安装Docker和 Singularity
 
-​        通过conda安装singularity
+通过conda安装singularity
 
 ```shell
 conda create -n singularity -c conda-forge singularity
 conda active singularity
 ```
 
-​        如果已有nextflow的conda安装环境，可直接系统安装：
+如果已有nextflow的conda安装环境，可直接系统安装：
 
 ```shell
 conda activate nextflow
@@ -54,12 +54,11 @@ conda install -c conda-forge singularity
 
 1. 试运行开始
 
-  ```shell
- # conda activate nextflow
+```shell
+# conda activate nextflow
 nextflow run hoelzer-lab/rnaflow -profile test,conda,local
-  ```
-
-​      本地试运行（最多共有30个core）
+```
+本地试运行（最多共有30个core）
 
 ```
 nextflow run hoelzer-lab/rnaflow -profile test,conda,local -w work \
@@ -67,8 +66,7 @@ nextflow run hoelzer-lab/rnaflow -profile test,conda,local -w work \
 ```
 
 ![](https://tva1.sinaimg.cn/large/008eGmZEly1goh118tkpbj31dk0nqtq9.jpg)
-
-​     （试运行步骤时间略微有些长啊）
+（试运行步骤时间略微有些长啊）
 
 2. 请求帮助
 

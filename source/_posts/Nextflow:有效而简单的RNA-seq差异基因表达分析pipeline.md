@@ -1,5 +1,5 @@
 ---
-title: Nextflow: 有效简单的RNA-seq差异基因表达分析pipeline
+title: 使用nextflow进行差异基因表达分析
 categories: DataScience
 tags:
   - Conda
